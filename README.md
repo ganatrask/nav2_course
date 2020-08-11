@@ -1,6 +1,6 @@
 # nav2_course
 
-The `nav2_bringup` package is an example bringup system for Navigation2 applications.
+The `nav2_course` package is an example bringup system for Navigation2 applications.
 
 ### Pre-requisites:
 * [Install ROS 2](https://index.ros.org/doc/ros2/Installation/Dashing/)
