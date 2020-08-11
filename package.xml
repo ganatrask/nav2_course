@@ -3,7 +3,7 @@
 <package format="3">
   <name>nav2_course</name>
   <version>0.0.4</version>
-  <description>This package contains scripts & configuration file for ROS2-Navigation course on Robot Ignite Academy. </description>
+  <description>This package contains scripts and configuration file for ROS2-Navigation course on Robot Ignite Academy. </description>
   <maintainer email="ganatra.shyam@outlook.com">Shyam Ganatra</maintainer>
   <license>Apache-2.0</license>
 
